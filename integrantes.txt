@@ -1,0 +1,18 @@
+Practica1 Vue3
+
+Nombre(s) de integrante(s):
+
+- Farid Arancibia Arancibia
+Pasos para clonar el repositorio
+
+1) git clone https://github.com/Farid324/usipmod6practica1.git
+2) cd agenda-contactos
+
+Pasos para iniciar el proyecto:
+
+1) npm install
+2) npm run serve
+
+Y en otra terminal
+
+1) npx json-server --watch db.json --port 3000
